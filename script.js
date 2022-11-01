@@ -22,4 +22,4 @@ const genPrimeNumber = (x) => {
   return result; //return ค่าจำนวนเฉพาะ
 };
 
-console.log(genPrimeNumber(20));
+console.log(genPrimeNumber(10));
